@@ -7,3 +7,4 @@ If you will make this project, install
  Add Dependency,
 - expressJs
 - socket.io-client
+- fs module
